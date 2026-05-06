@@ -367,6 +367,9 @@ function M.get(c)
 
 		-- Snacks
 		SnacksPickerDir = { fg = c.fg_path },
+
+		-- NeoTree
+		NeoTreeTitleBar = { fg = c.bg, bg = c.blue },
 	}
 end
 
